@@ -1,0 +1,57 @@
+header{background-color: #2F3640;}
+footer{background-color: #2F3640;}
+body{background-color: #F2D4C9; margin:20px;}
+h1{color: #0D0D0D;font-family: 'Fjalla One', sans-serif;font-size: 40px;text-align: center; font-weight: bold;}
+h2{color: #0D0D0D;font-family: 'Fjalla One', sans-serif;font-weight: bold;}
+h3{color: #0D0D0D;font-family: 'Fjalla One', sans-serif;margin: 5px;padding-top: 15px;font-weight: bold;}
+h6{color: #0D0D0D;font-family: 'Quicksand', sans-serif; font-weight: bold}
+p{color: #0D0D0D;font-family: 'Quicksand', sans-serif;}
+a{color: #5F6873;font-family: 'Quicksand', sans-serif;}
+a:hover{color:#F2F2F2;font-family: 'Quicksand', sans-serif;}
+.estilo-icono{margin-right:8px;}
+.estilo-logo{width:60px;}
+.carousel-inner img {width: 100%;height: 100%;}
+.imagen-diferenciadores{width:70px;height:70px;}
+.imagen-paisaje{width:1100px;height:600px;}
+.imagen-circulos{border-radius:50%;width:100%;height:100%;}
+.imagen-mapa{width:300px;height:300px;}
+.icono-servicios{font-size:55px;}
+.estilo-footer1{margin-top:-17px; padding-left:-20px;margin-left: -15px;}
+.estilo-footer2{margin-bottom:15px; margin-top:20px;}
+.icono-redes{font-size:20px;color:#8C5C4A;}
+.icono-redes:hover{color:#8C5C4A;}
+.h2-slider{color:#F2F2F2;}
+.p-slider{color:#F2F2F2;font-family:'Quicksand', sans-serif;}
+.imagen-servicios{height:80%;width:100%;}
+.estilo-formulario{color: #0D0D0D;font-family: 'Quicksand', sans-serif;}
+.estilo-boton{background-color:#0D0D0D ; border-color: #0D0D0D;}
+.estilo-boton:hover{background-color:#F2F2F2 ; border-color: #0D0D0D;color:#0D0D0D;}
+.fondo-contacto{background-color: #F2F2F2;}
+@media only screen and (max-width: 320px){.imagen-mapa{width:250px;height:250px;}}
+@media only screen and (max-width: 280px){.imagen-mapa{width:200px;height:200px;}}
+@media only screen and (min-width: 768px) and (max-width: 1000px){.imagen-mapa{width:220px;height:250px;}}
+@media only screen and (max-width: 767px){.imagen-alojamiento{display: none;}}
+@media only screen and (min-width: 875px) and (max-width: 1100px){.parrafo-alojamiento{font-size:0.7rem;}}
+@media only screen and (min-width: 768px) and (max-width: 874px){.parrafo-alojamiento{font-size:0.6rem;}}
+@media only screen and (min-width: 994px) and (max-width: 1110px){.parrafo-servicios{font-size:0.8rem;}}
+@media only screen and (min-width: 850px) and (max-width: 994px){.parrafo-servicios{font-size:0.7rem;}}
+@media only screen and (min-width: 768px) and (max-width: 850px){.parrafo-servicios{font-size:0.6rem;}}
+@media only screen and (min-width: 500px) and (max-width: 767px){.imagen-servicios{width: 400px;height: 400px;margin-bottom:30px;}}
+@media only screen and (max-width: 500px){.imagen-servicios{margin-bottom:20px;}}
+@media only screen and (min-width: 900px) and (max-width: 1041px){.parrafo-destinos{font-size:0.8rem;}}
+@media only screen and (min-width: 767px) and (max-width: 900px){.parrafo-destinos{font-size:0.6rem;}}
+@media only screen and (min-width: 500px) and (max-width: 767px){.imagen-destinos{width: 400px;height: 400px;}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
